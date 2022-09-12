@@ -1,2 +1,4 @@
-# 2-course-1-semester
-# 2-course-1-semester
+# Описание 4 задания
+Необходимо развернуть Postgres Pro 14 в Докере
+Результат файл Dockerfile
+
